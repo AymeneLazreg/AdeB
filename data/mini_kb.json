@@ -1,56 +1,254 @@
 {
-  "_comment": "Mini base jouet (NON représentative de JeuxDeMots). Relation = [source, type, cible, poids].",
-  "relations": [
-    ["désert", "r_isa", "zone géographique", 60],
-    ["zone géographique", "r_isa", "lieu", 70],
-    ["tour", "r_isa", "monument", 60],
-    ["monument", "r_isa", "lieu", 50],
-    ["cuillère", "r_isa", "couvert", 70],
-    ["couvert", "r_isa", "objet", 60],
-    ["trône", "r_isa", "meuble", 60],
-    ["meuble", "r_isa", "objet", 70],
-    ["fusil", "r_isa", "arme", 80],
-    ["arme", "r_isa", "objet", 60],
-    ["vélo", "r_isa", "véhicule", 80],
-    ["véhicule", "r_isa", "objet", 60],
-    ["vin", "r_isa", "boisson", 80],
-    ["café", "r_isa", "boisson", 80],
-    ["boisson", "r_isa", "produit", 50],
-    ["soldat", "r_isa", "personne", 80],
-    ["cycliste", "r_isa", "personne", 80],
-    ["Algérie", "r_isa", "pays", 80],
-    ["France", "r_isa", "pays", 80],
-    ["Brésil", "r_isa", "pays", 80],
-    ["Pise", "r_isa", "ville", 80],
-    ["ville", "r_isa", "lieu", 60],
-    ["pays", "r_isa", "lieu", 60],
-    ["bois", "r_isa", "matériau", 70],
-    ["fer", "r_isa", "matériau", 70],
-    ["désert", "r_lieu", "Algérie", 20],
-    ["tour", "r_lieu", "Pise", 40],
-    ["vin", "r_lieu>origine", "France", 30],
-    ["café", "r_lieu>origine", "Brésil", 30],
-    ["cuillère", "r_mater>object", "bois", 30],
-    ["trône", "r_mater>object", "fer", 20],
-    ["fusil", "r_own", "soldat", 25],
-    ["vélo", "r_own", "cycliste", 25]
-  ],
-  "sem_types": {
-    "désert": ["_INFO-SEM-PLACE"],
-    "tour": ["_INFO-SEM-THING-ARTEFACT", "_INFO-SEM-PLACE"],
-    "cuillère": ["_INFO-SEM-THING-ARTEFACT"],
-    "trône": ["_INFO-SEM-THING-ARTEFACT"],
-    "fusil": ["_INFO-SEM-THING-ARTEFACT"],
-    "vélo": ["_INFO-SEM-THING-ARTEFACT"],
-    "vin": ["_INFO-SEM-SUBST"],
-    "café": ["_INFO-SEM-SUBST"],
-    "soldat": ["_INFO-SEM-HUMAN"],
-    "cycliste": ["_INFO-SEM-HUMAN"],
-    "Algérie": ["_INFO-SEM-PLACE-HUMAN"],
-    "France": ["_INFO-SEM-PLACE-HUMAN"],
-    "Brésil": ["_INFO-SEM-PLACE-HUMAN"],
-    "Pise": ["_INFO-SEM-PLACE-HUMAN"],
-    "bois": ["_INFO-SEM-SUBST"],
-    "fer": ["_INFO-SEM-SUBST"]
-  }
+    "_comment": "Mini base jouet (NON représentative de JeuxDeMots). Relation = [source, type, cible, poids].",
+    "relations": [
+        [
+            "désert",
+            "r_isa",
+            "zone géographique",
+            60
+        ],
+        [
+            "zone géographique",
+            "r_isa",
+            "lieu",
+            70
+        ],
+        [
+            "tour",
+            "r_isa",
+            "monument",
+            60
+        ],
+        [
+            "monument",
+            "r_isa",
+            "lieu",
+            50
+        ],
+        [
+            "cuillère",
+            "r_isa",
+            "couvert",
+            70
+        ],
+        [
+            "couvert",
+            "r_isa",
+            "objet",
+            60
+        ],
+        [
+            "trône",
+            "r_isa",
+            "meuble",
+            60
+        ],
+        [
+            "meuble",
+            "r_isa",
+            "objet",
+            70
+        ],
+        [
+            "fusil",
+            "r_isa",
+            "arme",
+            80
+        ],
+        [
+            "arme",
+            "r_isa",
+            "objet",
+            60
+        ],
+        [
+            "vélo",
+            "r_isa",
+            "véhicule",
+            80
+        ],
+        [
+            "véhicule",
+            "r_isa",
+            "objet",
+            60
+        ],
+        [
+            "vin",
+            "r_isa",
+            "boisson",
+            80
+        ],
+        [
+            "café",
+            "r_isa",
+            "boisson",
+            80
+        ],
+        [
+            "boisson",
+            "r_isa",
+            "produit",
+            50
+        ],
+        [
+            "soldat",
+            "r_isa",
+            "personne",
+            80
+        ],
+        [
+            "cycliste",
+            "r_isa",
+            "personne",
+            80
+        ],
+        [
+            "Algérie",
+            "r_isa",
+            "pays",
+            80
+        ],
+        [
+            "France",
+            "r_isa",
+            "pays",
+            80
+        ],
+        [
+            "Brésil",
+            "r_isa",
+            "pays",
+            80
+        ],
+        [
+            "Pise",
+            "r_isa",
+            "ville",
+            80
+        ],
+        [
+            "ville",
+            "r_isa",
+            "lieu",
+            60
+        ],
+        [
+            "pays",
+            "r_isa",
+            "lieu",
+            60
+        ],
+        [
+            "bois",
+            "r_isa",
+            "matériau",
+            70
+        ],
+        [
+            "fer",
+            "r_isa",
+            "matériau",
+            70
+        ],
+        [
+            "désert",
+            "r_lieu",
+            "Algérie",
+            20
+        ],
+        [
+            "tour",
+            "r_lieu",
+            "Pise",
+            40
+        ],
+        [
+            "vin",
+            "r_lieu>origine",
+            "France",
+            30
+        ],
+        [
+            "café",
+            "r_lieu>origine",
+            "Brésil",
+            30
+        ],
+        [
+            "cuillère",
+            "r_mater>object",
+            "bois",
+            30
+        ],
+        [
+            "trône",
+            "r_mater>object",
+            "fer",
+            20
+        ],
+        [
+            "fusil",
+            "r_own",
+            "soldat",
+            25
+        ],
+        [
+            "vélo",
+            "r_own",
+            "cycliste",
+            25
+        ]
+    ],
+    "sem_types": {
+        "désert": [
+            "_INFO-SEM-PLACE"
+        ],
+        "tour": [
+            "_INFO-SEM-THING-ARTEFACT",
+            "_INFO-SEM-PLACE"
+        ],
+        "cuillère": [
+            "_INFO-SEM-THING-ARTEFACT"
+        ],
+        "trône": [
+            "_INFO-SEM-THING-ARTEFACT"
+        ],
+        "fusil": [
+            "_INFO-SEM-THING-ARTEFACT"
+        ],
+        "vélo": [
+            "_INFO-SEM-THING-ARTEFACT"
+        ],
+        "vin": [
+            "_INFO-SEM-SUBST"
+        ],
+        "café": [
+            "_INFO-SEM-SUBST"
+        ],
+        "soldat": [
+            "_INFO-SEM-HUMAN"
+        ],
+        "cycliste": [
+            "_INFO-SEM-HUMAN"
+        ],
+        "Algérie": [
+            "_INFO-SEM-PLACE-HUMAN"
+        ],
+        "France": [
+            "_INFO-SEM-PLACE-HUMAN"
+        ],
+        "Brésil": [
+            "_INFO-SEM-PLACE-HUMAN"
+        ],
+        "Pise": [
+            "_INFO-SEM-PLACE-HUMAN"
+        ],
+        "bois": [
+            "_INFO-SEM-SUBST"
+        ],
+        "fer": [
+            "_INFO-SEM-SUBST"
+        ]
+    }
 }
