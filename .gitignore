@@ -5,3 +5,5 @@
 data/*.zip
 data/*.txt
 data/jdm_subgraph.json
+sortie_complement.txt
+sortie_rapport.txt
