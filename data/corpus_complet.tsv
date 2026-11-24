@@ -1,0 +1,1217 @@
+phrase	type
+dégâts de la tempête	Co
+retards de la circulation	Co
+douleur de la blessure	Co
+fatigue du voyage	Co
+fumée de l'incendie	Co
+cendres du feu	Co
+cicatrice de l'opération	Co
+ruines de la guerre	Co
+conséquences de la crise	Co
+effets du médicament	Co
+symptômes de la grippe	Co
+chaleur du soleil	Co
+froid de l'hiver	Co
+bruit du moteur	Co
+lumière de la lampe	Co
+odeur de la cuisine	Co
+parfum de la fleur	Co
+vapeur de l'eau	Co
+écho de la voix	Co
+ombre de l'arbre	Co
+reflet du miroir	Co
+trace du passage	Co
+empreinte du pas	Co
+tache de l'encre	Co
+rouille de l'humidité	Co
+moisissure de l'eau	Co
+érosion du vent	Co
+inondation de la pluie	Co
+sécheresse de la canicule	Co
+gelée de la nuit	Co
+verglas de l'hiver	Co
+avalanche de la neige	Co
+glissement de la pluie	Co
+fissure du séisme	Co
+secousse du tremblement	Co
+panne de l'orage	Co
+coupure de la tempête	Co
+pénurie de la sécheresse	Co
+famine de la guerre	Co
+inflation de la crise	Co
+chômage de la récession	Co
+faillite de la crise	Co
+pertes de l'accident	Co
+victimes de l'attentat	Co
+blessés de la collision	Co
+traumatisme de l'accident	Co
+stress du travail	Co
+anxiété de l'examen	Co
+joie de la victoire	Co
+tristesse de la défaite	Co
+colère de l'injustice	Co
+peur du danger	Co
+panique de l'alerte	Co
+soulagement de la nouvelle	Co
+fierté du succès	Co
+honte de l'échec	Co
+regret de la décision	Co
+remords du crime	Co
+deuil de la perte	Co
+larmes de la tristesse	Co
+sourire du bonheur	Co
+rire de la blague	Co
+sueur de l'effort	Co
+essoufflement de la course	Co
+courbatures du sport	Co
+vertige de la hauteur	Co
+nausée du voyage	Co
+fièvre de l'infection	Co
+toux du rhume	Co
+démangeaison de la piqûre	Co
+gonflement du coup	Co
+bleu de la chute	Co
+fracture de l'accident	Co
+brûlure du feu	Co
+engelure du froid	Co
+insolation du soleil	Co
+déshydratation de la chaleur	Co
+intoxication du poison	Co
+allergie du pollen	Co
+gueule de l'alcool	Co
+fusil du soldat	Po
+vélo du cycliste	Po
+voiture du conducteur	Po
+maison du propriétaire	Po
+appartement du locataire	Po
+chambre de l'enfant	Po
+bureau du directeur	Po
+cabinet du médecin	Po
+atelier du menuisier	Po
+boutique du commerçant	Po
+ferme de l'agriculteur	Po
+bateau du pêcheur	Po
+avion du pilote	Po
+moto du motard	Po
+cheval du cavalier	Po
+chien du chasseur	Po
+chat de la voisine	Po
+troupeau du berger	Po
+jardin du voisin	Po
+champ du paysan	Po
+vigne du vigneron	Po
+forêt du seigneur	Po
+château du roi	Po
+palais du prince	Po
+couronne de la reine	Po
+trône du monarque	Po
+sceptre de l'empereur	Po
+épée du chevalier	Po
+bouclier du guerrier	Po
+arc de l'archer	Po
+pistolet du policier	Po
+uniforme du militaire	Po
+blouse du docteur	Po
+tablier du cuisinier	Po
+casque du pompier	Po
+marteau du forgeron	Po
+pinceau du peintre	Po
+violon du musicien	Po
+guitare du chanteur	Po
+piano du pianiste	Po
+caméra du réalisateur	Po
+appareil du photographe	Po
+ordinateur de l'étudiant	Po
+téléphone du client	Po
+montre du voyageur	Po
+lunettes du lecteur	Po
+chapeau du promeneur	Po
+manteau de la dame	Po
+veste de l'homme	Po
+robe de la mariée	Po
+chaussures du coureur	Po
+sac de la cliente	Po
+valise du touriste	Po
+portefeuille du passant	Po
+argent du banquier	Po
+fortune du milliardaire	Po
+trésor du pirate	Po
+bijoux de la princesse	Po
+bague de la fiancée	Po
+collier de la chanteuse	Po
+livre du professeur	Po
+cahier de l'élève	Po
+stylo de l'écrivain	Po
+cartable de l'écolier	Po
+jouet du bébé	Po
+poupée de la fillette	Po
+ballon du joueur	Po
+raquette du champion	Po
+skis du skieur	Po
+planche du surfeur	Po
+canne du pêcheur	Po
+tente du campeur	Po
+boussole de l'explorateur	Po
+carte du navigateur	Po
+outil du bricoleur	Po
+clé du gardien	Po
+badge de l'employé	Po
+passeport du voyageur	Po
+billet du passager	Po
+ticket du spectateur	Po
+cuillère de bois	M
+trône de fer	M
+table de chêne	M
+chaise de plastique	M
+statue de marbre	M
+bague d'or	M
+collier d'argent	M
+couronne de diamant	M
+mur de brique	M
+pont de pierre	M
+route de béton	M
+toit d'ardoise	M
+porte de métal	M
+fenêtre de verre	M
+bouteille de cristal	M
+vase de porcelaine	M
+bol de céramique	M
+assiette de faïence	M
+pot d'argile	M
+cruche de terre	M
+casserole de cuivre	M
+poêle de fonte	M
+couteau d'acier	M
+fourchette d'inox	M
+clé de laiton	M
+cloche de bronze	M
+fil de plomb	M
+feuille d'aluminium	M
+tuyau de zinc	M
+barre de titane	M
+robe de soie	M
+chemise de coton	M
+pull de laine	M
+pantalon de lin	M
+veste de cuir	M
+manteau de fourrure	M
+écharpe de cachemire	M
+jupe de velours	M
+rideau de dentelle	M
+drap de satin	M
+tapis de jute	M
+corde de chanvre	M
+sac de toile	M
+chapeau de paille	M
+panier d'osier	M
+tapis de bambou	M
+planche de sapin	M
+armoire de noyer	M
+lit de hêtre	M
+coffre de cèdre	M
+boîte de carton	M
+enveloppe de papier	M
+sac de tissu	M
+gant de caoutchouc	M
+semelle de gomme	M
+bouchon de liège	M
+bougie de cire	M
+pain de savon	M
+bloc de glace	M
+château de sable	M
+bonhomme de neige	M
+maison de boue	M
+cabane de paille	M
+palais de granit	M
+colonne de calcaire	M
+escalier de grès	M
+sol de basalte	M
+bijou de platine	M
+pendentif de jade	M
+bracelet d'ambre	M
+perle d'ivoire	M
+peigne de corne	M
+bouton de nacre	M
+cadre de résine	M
+coque de carbone	M
+tube de silicone	M
+brique de terre	M
+dalle de schiste	M
+plaque de marbre	M
+grille de fer	M
+vin de France	O
+café du Brésil	O
+fromage de Normandie	O
+cidre de Bretagne	O
+champagne de France	O
+huile d'olive	O
+thé de Chine	O
+rhum de Martinique	O
+whisky d'Écosse	O
+bière de Belgique	O
+moutarde de Bourgogne	O
+safran d'Espagne	O
+caviar d'Iran	O
+chocolat de Suisse	O
+miel de Provence	O
+sel de Camargue	O
+piment d'Espelette	O
+lentilles du Puy	O
+haricots de Tarbes	O
+noix du Périgord	O
+châtaignes d'Ardèche	O
+pommes du Limousin	O
+poires d'Anjou	O
+fraises du Périgord	O
+citrons de Menton	O
+oranges d'Espagne	O
+figues de Solliès	O
+olives de Nyons	O
+truffes du Périgord	O
+nougat de Montélimar	O
+calissons d'Aix	O
+cannelés de Bordeaux	O
+macarons de Nancy	O
+bêtises de Cambrai	O
+quiche de Lorraine	O
+choucroute d'Alsace	O
+cassoulet du Sud-Ouest	O
+bouillabaisse de Marseille	O
+fondue de Savoie	O
+raclette du Valais	O
+marbre d'Italie	O
+granit de Bretagne	O
+soie de Lyon	O
+porcelaine de Limoges	O
+laine de mouton	O
+tabac de Cuba	O
+cacao de Côte d'Ivoire	O
+vanille de Madagascar	O
+poivre de Kampot	O
+gingembre d'Asie	O
+curry d'Inde	O
+couscous du Maghreb	O
+paella d'Espagne	O
+pizza d'Italie	O
+sushis du Japon	O
+kimchi de Corée	O
+vodka de Russie	O
+tequila du Mexique	O
+saké du Japon	O
+mezcal du Mexique	O
+pisco du Pérou	O
+maté d'Argentine	O
+rooibos d'Afrique du Sud	O
+hibiscus d'Égypte	O
+lavande de Provence	O
+rose de Damas	O
+jasmin de Grasse	O
+iris de Florence	O
+bergamote de Calabre	O
+cèdre du Liban	O
+chêne de Tronçais	O
+pin des Landes	O
+bambou de Chine	O
+jade de Birmanie	O
+ambre de la Baltique	O
+turquoise du Tibet	O
+lapis-lazuli d'Afghanistan	O
+coton d'Égypte	O
+lin de Normandie	O
+chanvre de France	O
+restaurant de sushis	T
+film d'horreur	T
+roman d'aventure	T
+livre d'histoire	T
+cours de mathématiques	T
+article de politique	T
+émission de science	T
+documentaire d'écologie	T
+série de fantasy	T
+bande dessinée de science-fiction	T
+pièce de théâtre	T
+chanson d'amour	T
+poème de guerre	T
+conférence d'économie	T
+séminaire de philosophie	T
+atelier de peinture	T
+stage de cuisine	T
+guide de voyage	T
+manuel de programmation	T
+dictionnaire de synonymes	T
+encyclopédie de médecine	T
+atlas de géographie	T
+revue de mode	T
+magazine de cinéma	T
+journal de sport	T
+blog de cuisine	T
+podcast de technologie	T
+forum de musique	T
+club de lecture	T
+groupe de rock	T
+orchestre de musique classique	T
+chorale de gospel	T
+festival de jazz	T
+exposition de photographie	T
+galerie d'art contemporain	T
+musée d'archéologie	T
+salon de coiffure	T
+institut de beauté	T
+centre de yoga	T
+salle de boxe	T
+école de danse	T
+conservatoire de musique	T
+université de lettres	T
+faculté de droit	T
+débat d'actualité	T
+discussion de politique	T
+enquête de police	T
+rapport d'audit	T
+étude de marché	T
+analyse de données	T
+bilan de santé	T
+projet de recherche	T
+plan de sécurité	T
+charte d'éthique	T
+règlement de copropriété	T
+contrat de travail	T
+traité de paix	T
+accord de commerce	T
+loi de finances	T
+décret d'application	T
+chronique de société	T
+rubrique de cinéma	T
+dossier d'environnement	T
+compte rendu de réunion	T
+procès-verbal d'assemblée	T
+mémoire de master	T
+thèse de doctorat	T
+essai de sociologie	T
+recueil de nouvelles	T
+anthologie de poésie	T
+chanson de marin	T
+berceuse d'enfant	T
+comptine d'école	T
+hymne de résistance	T
+marche de parade	T
+fable d'animaux	T
+conte de fées	T
+légende de chevalerie	T
+mythe d'origine	T
+brin d'herbe	Q
+minute d'attente	Q
+goutte d'eau	Q
+grain de sable	Q
+pincée de sel	Q
+cuillère de sucre	Q
+verre d'eau	Q
+tasse de café	Q
+bol de riz	Q
+assiette de pâtes	Q
+tranche de pain	Q
+morceau de fromage	Q
+part de gâteau	Q
+boule de glace	Q
+cube de glace	Q
+carré de chocolat	Q
+gousse d'ail	Q
+tête d'ail	Q
+botte de carottes	Q
+botte de radis	Q
+grappe de raisin	Q
+régime de bananes	Q
+touffe de cheveux	Q
+mèche de cheveux	Q
+poignée de riz	Q
+brassée de fleurs	Q
+gerbe de blé	Q
+tas de feuilles	Q
+pile de livres	Q
+paquet de cigarettes	Q
+cartouche d'encre	Q
+rouleau de papier	Q
+bobine de fil	Q
+pelote de laine	Q
+flacon de parfum	Q
+bouteille de lait	Q
+canette de soda	Q
+barquette de fraises	Q
+cageot de pommes	Q
+sac de farine	Q
+seau d'eau	Q
+baignoire d'eau	Q
+piscine d'eau	Q
+litre de lait	Q
+kilogramme de pommes	Q
+gramme d'or	Q
+tonne de charbon	Q
+mètre de tissu	Q
+centimètre de ruban	Q
+kilomètre de route	Q
+hectare de forêt	Q
+seconde de silence	Q
+heure de retard	Q
+journée de pluie	Q
+semaine de vacances	Q
+mois de travail	Q
+année d'étude	Q
+siècle d'histoire	Q
+millénaire de paix	Q
+bouchée de pain	Q
+gorgée d'eau	Q
+bouffée d'air	Q
+rayon de soleil	Q
+flocon de neige	Q
+éclat de rire	Q
+sanglot de douleur	Q
+soupir de soulagement	Q
+frisson de peur	Q
+coup de tonnerre	Q
+bouquet de fleurs	Q
+nuage de poussière	Q
+banc de poissons	Q
+nuée d'oiseaux	Q
+essaim d'abeilles	Q
+meute de loups	Q
+flotte de bateaux	Q
+escadrille d'avions	Q
+colonne de fourmis	Q
+rangée d'arbres	Q
+file de voitures	Q
+série de questions	Q
+liste de courses	Q
+ensemble de règles	Q
+collection de timbres	Q
+lot de pièces	Q
+peinture d'un paysage	D
+photo d'une famille	D
+portrait d'une femme	D
+dessin d'un chat	D
+croquis d'une rue	D
+esquisse d'un visage	D
+gravure d'un château	D
+aquarelle d'une mer	D
+pastel d'un arbre	D
+fusain d'une main	D
+lithographie d'un port	D
+estampe d'une forêt	D
+sculpture d'un cheval	D
+statue d'un héros	D
+buste d'un empereur	D
+maquette d'un pont	D
+plan d'une maison	D
+carte d'une région	D
+schéma d'un moteur	D
+diagramme d'un circuit	D
+graphique d'une courbe	D
+tableau d'une bataille	D
+fresque d'une église	D
+mosaïque d'un oiseau	D
+tapisserie d'une chasse	D
+broderie d'une fleur	D
+vitrail d'un saint	D
+icône d'un ange	D
+affiche d'un concert	D
+poster d'un film	D
+photographie d'un monument	D
+cliché d'une scène	D
+instantané d'un sourire	D
+selfie d'un groupe	D
+radiographie d'un poumon	D
+échographie d'un bébé	D
+scanner d'un cerveau	D
+irm d'un genou	D
+carte d'un pays	D
+plan d'une ville	D
+croquis d'un oiseau	D
+dessin d'une fleur	D
+peinture d'un port	D
+photo d'un chien	D
+portrait d'un vieillard	D
+sculpture d'un lion	D
+buste d'un écrivain	D
+gravure d'une rivière	D
+aquarelle d'un jardin	D
+esquisse d'un cheval	D
+fusain d'un portrait	D
+pastel d'un paysage	D
+lithographie d'une cathédrale	D
+estampe d'une montagne	D
+maquette d'un bateau	D
+schéma d'une cellule	D
+diagramme d'un cycle	D
+graphique d'une évolution	D
+tableau d'une famille	D
+fresque d'un palais	D
+mosaïque d'un poisson	D
+tapisserie d'un jardin	D
+vitrail d'une rose	D
+icône d'une vierge	D
+affiche d'un festival	D
+poster d'un groupe	D
+photographie d'un enfant	D
+cliché d'un paysage	D
+instantané d'une course	D
+selfie d'un ami	D
+carte d'une île	D
+plan d'un appartement	D
+dessin d'un bateau	D
+peinture d'une montagne	D
+photo d'un paysage	D
+portrait d'un musicien	D
+sculpture d'un oiseau	D
+gravure d'un arbre	D
+aquarelle d'un village	D
+croquis d'un bâtiment	D
+sournoiserie du politicien	Ca
+sagesse du vieillard	Ca
+cruauté du tyran	Ca
+bonté de la mère	Ca
+naïveté de l'enfant	Ca
+rigueur du juge	Ca
+lâcheté du traître	Ca
+courage du soldat	Ca
+générosité du donateur	Ca
+avarice de l'avare	Ca
+orgueil du prince	Ca
+humilité du sage	Ca
+patience de l'artisan	Ca
+colère du chef	Ca
+douceur de la voix	Ca
+dureté du regard	Ca
+froideur du geste	Ca
+chaleur de l'accueil	Ca
+politesse de l'hôte	Ca
+gentillesse du voisin	Ca
+maladresse du débutant	Ca
+adresse du jongleur	Ca
+habilité de l'ouvrier	Ca
+souplesse du danseur	Ca
+lenteur de la tortue	Ca
+rapidité du guépard	Ca
+force de l'athlète	Ca
+faiblesse du malade	Ca
+beauté du paysage	Ca
+laideur du monstre	Ca
+élégance de la silhouette	Ca
+grâce du mouvement	Ca
+noblesse du geste	Ca
+bassesse de l'acte	Ca
+tristesse du regard	Ca
+gaieté du rire	Ca
+mélancolie du soir	Ca
+solitude de l'exilé	Ca
+fermeté du ton	Ca
+douceur du timbre	Ca
+clarté de l'explication	Ca
+obscurité du propos	Ca
+profondeur de l'analyse	Ca
+légèreté du ton	Ca
+gravité de la situation	Ca
+sérieux de l'élève	Ca
+insouciance de la jeunesse	Ca
+prudence du conducteur	Ca
+imprudence du piéton	Ca
+audace de l'explorateur	Ca
+timidité de l'enfant	Ca
+fierté du champion	Ca
+modestie du savant	Ca
+vanité du mondain	Ca
+hypocrisie du flatteur	Ca
+sincérité du témoin	Ca
+franchise de l'ami	Ca
+perfidie de l'ennemi	Ca
+bravoure du combattant	Ca
+témérité du grimpeur	Ca
+précision du tireur	Ca
+justesse du propos	Ca
+pertinence de la remarque	Ca
+finesse de l'esprit	Ca
+lourdeur de l'atmosphère	Ca
+fraîcheur de l'air	Ca
+tiédeur de l'eau	Ca
+sécheresse du climat	Ca
+humidité de la cave	Ca
+pureté de l'eau	Ca
+limpidité du ruisseau	Ca
+opacité du verre	Ca
+transparence de l'eau	Ca
+brillance du métal	Ca
+matité de la peinture	Ca
+rugosité de l'écorce	Ca
+douceur de la peau	Ca
+fermeté du fruit	Ca
+mollesse du coussin	Ca
+souplesse du cuir	Ca
+coque du bateau	H
+écaille du poisson	H
+roue de la voiture	H
+volant de la voiture	H
+moteur de la voiture	H
+portière de la voiture	H
+pare-brise de la voiture	H
+pneu du vélo	H
+guidon du vélo	H
+chaîne du vélo	H
+selle du vélo	H
+aile de l'avion	H
+hélice de l'avion	H
+cockpit de l'avion	H
+train d'atterrissage de l'avion	H
+branche de l'arbre	H
+racine de l'arbre	H
+feuille de l'arbre	H
+tronc de l'arbre	H
+écorce de l'arbre	H
+fleur de la plante	H
+tige de la plante	H
+pétale de la rose	H
+épine de la rose	H
+toit de la maison	H
+mur de la maison	H
+porte de la maison	H
+fenêtre de la maison	H
+cheminée de la maison	H
+fondation de la maison	H
+balcon de l'immeuble	H
+ascenseur de l'immeuble	H
+toiture de l'immeuble	H
+façade de l'immeuble	H
+couverture du livre	H
+page du livre	H
+chapitre du livre	H
+sommaire du livre	H
+préface du livre	H
+index du livre	H
+manche du marteau	H
+tête du marteau	H
+lame du couteau	H
+poignée du couteau	H
+semelle de la chaussure	H
+lacet de la chaussure	H
+tige de la botte	H
+talon de la chaussure	H
+anse de la tasse	H
+bord de la tasse	H
+fond de la tasse	H
+couvercle de la casserole	H
+queue de la casserole	H
+bec de la théière	H
+bouton de la chemise	H
+col de la chemise	H
+manche de la chemise	H
+poignet de la chemise	H
+ceinture du pantalon	H
+poche du pantalon	H
+boucle de la ceinture	H
+fermoir du collier	H
+écran de l'ordinateur	H
+clavier de l'ordinateur	H
+souris de l'ordinateur	H
+objectif de l'appareil	H
+visée de l'appareil	H
+déclencheur de l'appareil	H
+corde de la guitare	H
+manche de la guitare	H
+touche du piano	H
+pédale du piano	H
+archet du violon	H
+peau du tambour	H
+membrane du haut-parleur	H
+antenne de la radio	H
+aiguille de la montre	H
+cadran de la montre	H
+bracelet de la montre	H
+couronne de la dent	H
+racine de la dent	H
+émail de la dent	H
+plume de l'oiseau	H
+bec de l'oiseau	H
+aile de l'oiseau	H
+patte de l'oiseau	H
+nageoire du poisson	H
+queue du poisson	H
+museau du chien	H
+oreille du chien	H
+crinière du cheval	H
+sabot du cheval	H
+tour de Pise	L
+désert d'Algérie	L
+château de Versailles	L
+cathédrale de Chartres	L
+pont du Gard	L
+montagne des Alpes	L
+rivière de la Loire	L
+forêt de Brocéliande	L
+plage de Copacabana	L
+lac du Bourget	L
+île de beauté	L
+vallée du Rhône	L
+gorges du Verdon	L
+colline de Montmartre	L
+place de la Concorde	L
+avenue des Champs-Élysées	L
+boulevard de la Madeleine	L
+rue de Rivoli	L
+port de Marseille	L
+gare de Lyon	L
+aéroport de Roissy	L
+stade de France	L
+théâtre de l'Odéon	L
+opéra de Paris	L
+musée du Louvre	L
+bibliothèque de Babel	L
+université de Montpellier	L
+école de la République	L
+prison de la Santé	L
+abbaye du Mont-Saint-Michel	L
+monastère de la Grande Chartreuse	L
+temple d'Angkor	L
+mosquée de Cordoue	L
+synagogue de Prague	L
+palais de l'Alhambra	L
+citadelle de Carcassonne	L
+forteresse de Salses	L
+baie de Somme	L
+cap de Bonne-Espérance	L
+détroit de Gibraltar	L
+canal de Suez	L
+barrage de Serre-Ponçon	L
+cascade du Niagara	L
+volcan de l'Etna	L
+glacier de la Mer de Glace	L
+grotte de Lascaux	L
+caverne d'Ali Baba	L
+désert du Sahara	L
+savane d'Afrique	L
+toundra de Sibérie	L
+steppe de Mongolie	L
+jungle d'Amazonie	L
+marais de Camargue	L
+étang de Thau	L
+océan Pacifique	L
+mer Méditerranée	L
+golfe du Lion	L
+dunes du Pilat	L
+falaises d'Étretat	L
+plateau du Larzac	L
+plaine de la Beauce	L
+vallon des Auffes	L
+crique de Cassis	L
+calanque de Sugiton	L
+pic du Midi	L
+sommet du Mont-Blanc	L
+crête des Pyrénées	L
+col de l'Iseran	L
+défilé des Thermopyles	L
+canyon du Colorado	L
+cascade de Gavarnie	L
+source de la Seine	L
+embouchure du Nil	L
+delta du Mékong	L
+archipel des Açores	L
+réserve de Camargue	L
+parc du Mercantour	L
+forêt de Fontainebleau	L
+ville de Lyon	L
+région de Bretagne	L
+travail de l'ouvrier	A
+cours du professeur	A
+chant du rossignol	A
+rugissement du lion	A
+aboiement du chien	A
+miaulement du chat	A
+heurtement des vagues	A
+bruissement des feuilles	A
+sifflement du vent	A
+grondement du tonnerre	A
+crépitement du feu	A
+bourdonnement de l'abeille	A
+gazouillis de l'oiseau	A
+hurlement du loup	A
+barrissement de l'éléphant	A
+mugissement du taureau	A
+couinement de la souris	A
+roucoulement de la colombe	A
+glouglou de l'eau	A
+clapotis de la mer	A
+craquement de la branche	A
+froissement du papier	A
+grincement de la porte	A
+claquement du fouet	A
+roulement du tambour	A
+sonnerie de la cloche	A
+tintement du verre	A
+carillon de l'horloge	A
+battement d'ailes	A
+galop du cheval	A
+trot du cheval	A
+vol de l'aigle	A
+nage du dauphin	A
+marche du pèlerin	A
+course du sprinter	A
+saut de la grenouille	A
+plongeon du plongeur	A
+danse de la ballerine	A
+chasse du faucon	A
+pêche du héron	A
+butinage de l'abeille	A
+construction du castor	A
+tissage de l'araignée	A
+migration des hirondelles	A
+éclosion de l'œuf	A
+floraison du cerisier	A
+maturation du raisin	A
+fermentation de la levure	A
+ébullition de l'eau	A
+évaporation de la mer	A
+condensation de la vapeur	A
+fonte de la glace	A
+éruption du volcan	A
+tremblement de la terre	A
+rotation de la planète	A
+révolution de la Terre	A
+marée de l'océan	A
+courant de la rivière	A
+mouvement de l'aiguille	A
+oscillation du pendule	A
+vibration de la corde	A
+impulsion du cœur	A
+respiration du dormeur	A
+digestion du repas	A
+croissance de la plante	A
+développement de l'embryon	A
+cicatrisation de la plaie	A
+guérison du malade	A
+réaction du public	A
+applaudissement de la salle	A
+ripostes de l'avocat	A
+plaidoirie de l'avocat	A
+intervention du chirurgien	A
+enseignement du maître	A
+décision du juge	A
+enquête du journaliste	A
+observation de l'astronome	A
+calcul de l'ingénieur	A
+prévision du météorologue	A
+travail du bois	P
+ouverture de la porte	P
+fermeture de la fenêtre	P
+lecture du livre	P
+écriture de la lettre	P
+réparation du repas	P
+cuisson du gâteau	P
+lavage du linge	P
+repassage de la chemise	P
+nettoyage de la vitre	P
+balayage du sol	P
+rangement de la chambre	P
+construction de la maison	P
+démolition du mur	P
+réparation de la voiture	P
+conduite du camion	P
+pilotage de l'avion	P
+navigation du bateau	P
+récolte du blé	P
+taille de la vigne	P
+abattage de l'arbre	P
+plantation du chêne	P
+arrosage du jardin	P
+labour du champ	P
+traite de la vache	P
+tonte du mouton	P
+élevage du porc	P
+dressage du cheval	P
+soin du patient	P
+vaccination de l'enfant	P
+opération du genou	P
+analyse du sang	P
+examen du dossier	P
+audit de l'entreprise	P
+évaluation du projet	P
+contrôle de la qualité	P
+vérification du compte	P
+traduction du texte	P
+interprétation de la pièce	P
+mise en scène du spectacle	P
+enregistrement de l'album	P
+montage du film	P
+mixage du son	P
+impression du rapport	P
+publication de l'article	P
+diffusion de l'émission	P
+organisation du festival	P
+financement du projet	P
+gestion du budget	P
+protection de la forêt	P
+conservation du patrimoine	P
+restauration du tableau	P
+rénovation du logement	P
+aménagement du parc	P
+création de l'entreprise	P
+fondation de la ville	P
+ouverture du magasin	P
+fermeture de l'usine	P
+annulation du vol	P
+report du match	P
+suspension du contrat	P
+résiliation de l'abonnement	P
+signature du traité	P
+ratification de l'accord	P
+vote de la loi	P
+promulgation du décret	P
+adoption du budget	P
+approbation du plan	P
+validation du modèle	P
+entraînement du réseau	P
+test du système	P
+déploiement de l'application	P
+sauvegarde des données	P
+suppression du fichier	P
+compression de l'archive	P
+chiffrement du message	P
+analyse de la phrase	P
+segmentation du texte	P
+classification des données	P
+clé d'ouverture	I
+clé de la porte	I
+clé du coffre	I
+clé de contact	I
+code d'accès	I
+mot de passe	I
+badge d'entrée	I
+carte d'accès	I
+ticket d'entrée	I
+billet de train	I
+passeport de voyage	I
+permis de conduire	I
+facture de vente	I
+reçu de paiement	I
+bon de commande	I
+devis de réparation	I
+ordonnance de soins	I
+contrat de location	I
+acte de vente	I
+mandat de perquisition	I
+outil de coupe	I
+outil de mesure	I
+outil de nettoyage	I
+instrument de mesure	I
+instrument de musique	I
+instrument de chirurgie	I
+appareil de mesure	I
+appareil de photo	I
+appareil de chauffage	I
+machine à laver	I
+machine d'impression	I
+dispositif de sécurité	I
+système de refroidissement	I
+système de freinage	I
+système d'alarme	I
+mécanisme de verrouillage	I
+mécanisme d'ouverture	I
+levier de commande	I
+pédale de frein	I
+bouton de réglage	I
+interrupteur d'éclairage	I
+molette de mise au point	I
+manivelle de levage	I
+treuil de halage	I
+grue de levage	I
+pelleteuse de chantier	I
+foreuse de puits	I
+ponceuse de parquet	I
+perceuse de métal	I
+scie de menuisier	I
+lime de bijoutier	I
+pince d'électricien	I
+tournevis de précision	I
+loupe d'horloger	I
+microscope de laboratoire	I
+télescope d'observation	I
+jumelles de randonnée	I
+boussole d'orientation	I
+règle de traçage	I
+équerre de menuisier	I
+compas de dessin	I
+balance de précision	I
+thermomètre de cuisson	I
+chronomètre de course	I
+sifflet d'arbitre	I
+cloche d'appel	I
+sirène d'alerte	I
+corne de brume	I
+lampe de poche	I
+torche de soudage	I
+chalumeau de découpe	I
+fer à repasser	I
+fer de soudure	I
+fil de coupe	I
+corde de remorquage	I
+chaîne d'ancrage	I
+filet de pêche	I
+piège de capture	I
+canne de soutien	I
+béquille de marche	I
+avocat d'une femme battue	LS
+chef du groupe	LS
+mère de l'enfant	LS
+père de la famille	LS
+fils du voisin	LS
+fille de la voisine	LS
+frère de Julie	LS
+sœur de Paul	LS
+cousin de Marc	LS
+cousine de Claire	LS
+oncle de l'élève	LS
+tante de l'enfant	LS
+grand-père du garçon	LS
+grand-mère de la fillette	LS
+neveu de l'oncle	LS
+nièce de la tante	LS
+époux de la mariée	LS
+épouse du marié	LS
+mari de la dame	LS
+femme de l'homme	LS
+conjoint de l'employée	LS
+compagnon de la voyageuse	LS
+compagne du chercheur	LS
+fiancé de la jeune femme	LS
+fiancée du jeune homme	LS
+ami d'enfance	LS
+amie de lycée	LS
+collègue de bureau	LS
+camarade de classe	LS
+voisin de palier	LS
+voisine de jardin	LS
+partenaire d'affaires	LS
+associé du directeur	LS
+collaborateur de l'auteur	LS
+apprenti du boulanger	LS
+stagiaire de l'entreprise	LS
+élève du professeur	LS
+étudiant de la faculté	LS
+disciple du maître	LS
+client du commerçant	LS
+cliente de la boutique	LS
+patient du médecin	LS
+patiente du chirurgien	LS
+locataire du propriétaire	LS
+propriétaire de l'immeuble	LS
+employé du magasin	LS
+employée de la banque	LS
+salarié de l'usine	LS
+ouvrier du chantier	LS
+secrétaire du directeur	LS
+assistant du chercheur	LS
+assistante de direction	LS
+secrétaire de mairie	LS
+maire de la ville	LS
+président de l'association	LS
+directeur de l'école	LS
+directrice de l'hôpital	LS
+doyen de la faculté	LS
+recteur de l'université	LS
+juge de l'affaire	LS
+greffier du tribunal	LS
+procureur de la république	LS
+défenseur de l'accusé	LS
+conseiller du ministre	LS
+porte-parole du gouvernement	LS
+ambassadeur du pays	LS
+consul de la ville	LS
+représentant du personnel	LS
+délégué syndical	LS
+médiateur de la république	LS
+arbitre du match	LS
+entraîneur de l'équipe	LS
+coach du joueur	LS
+capitaine de l'équipe	LS
+gardien du phare	LS
+concierge de l'immeuble	LS
+gardien de prison	LS
+sentinelle du camp	LS
+guide du groupe	LS
+parrain de l'enfant	LS
+marraine de la fillette	LS
+portrait de Van Gogh	AC
+gâteau du pâtissier	AC
+roman de Zola	AC
+poème de Baudelaire	AC
+pièce de Molière	AC
+symphonie de Beethoven	AC
+tableau de Picasso	AC
+sculpture de Rodin	AC
+chanson de Brassens	AC
+album de Daft Punk	AC
+film de Miyazaki	AC
+série de Spielberg	AC
+dessin de Hergé	AC
+bande dessinée de Goscinny	AC
+fresque de Michel-Ange	AC
+gravure de Rembrandt	AC
+photographie de Cartier-Bresson	AC
+essai de Montaigne	AC
+fable de La Fontaine	AC
+conte de Perrault	AC
+discours de Victor Hugo	AC
+lettre de Voltaire	AC
+journal d'Anne Frank	AC
+mémoires de Gaulle	AC
+théorie d'Einstein	AC
+loi de Newton	AC
+théorème de Pythagore	AC
+algorithme de Dijkstra	AC
+invention de Gutenberg	AC
+découverte de Marie Curie	AC
+recette du chef	AC
+plat du cuisinier	AC
+pain du boulanger	AC
+vin du vigneron	AC
+bière du brasseur	AC
+fromage du berger	AC
+miel de l'apiculteur	AC
+meuble de l'ébéniste	AC
+chaise du menuisier	AC
+poterie du céramiste	AC
+bijou de l'orfèvre	AC
+montre de l'horloger	AC
+épée du forgeron	AC
+chapeau de la modiste	AC
+robe du couturier	AC
+parfum du nez	AC
+cocktail du barman	AC
+café du barista	AC
+glace du glacier	AC
+tarte de la pâtissière	AC
+confiserie du confiseur	AC
+charcuterie du charcutier	AC
+boucherie du boucher	AC
+maquette de l'architecte	AC
+plan de l'urbaniste	AC
+croquis de l'illustrateur	AC
+affiche du graphiste	AC
+site du développeur	AC
+programme de l'ingénieur	AC
+article du journaliste	AC
+reportage du reporter	AC
+documentaire du réalisateur	AC
+émission de l'animateur	AC
+chronique du chroniqueur	AC
+traduction du traducteur	AC
+adaptation du scénariste	AC
+mise en scène du metteur	AC
+chorégraphie du chorégraphe	AC
+composition du compositeur	AC
+arrangement de l'arrangeur	AC
+interprétation de la pianiste	AC
+jeu de l'acteur	AC
+doublage du comédien	AC
+réalisation du cinéaste	AC
+montage du monteur	AC
+illustration de l'illustratrice	AC
+calligraphie du calligraphe	AC
+enluminure du moine	AC
+broderie de la brodeuse	AC
+tapisserie du lissier	AC
+vitrail du maître-verrier	AC
