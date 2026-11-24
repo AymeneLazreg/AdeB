@@ -1,0 +1,7 @@
+﻿__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+data/*.zip
+data/*.txt
+data/jdm_subgraph.json
